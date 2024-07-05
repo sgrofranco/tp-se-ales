@@ -12,5 +12,5 @@ Modelado: Entrenamiento de un modelo SVM para la clasificación de emociones.<br
 valuación: Análisis de la precisión del modelo y visualización de los resultados.<br>
 
 <h2>Requisitos</h2>
-Python 3.x
+Python 3.x<br>
 Librerías pandas, numpy, matplotlib, scikit-learn
