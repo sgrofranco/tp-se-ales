@@ -1,4 +1,4 @@
-<h1> **Detección de Sentimientos a partir de Ondas Cerebrales** </h1>
+<h1> Detección de Sentimientos a partir de Ondas Cerebrales </h1>
 Repositorio generado para el TP Final de la materia Procesamiento de Señales
 
 <h2>Descripción</h2>
