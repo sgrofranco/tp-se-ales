@@ -1,4 +1,5 @@
-###Detección de Sentimientos a partir de Ondas Cerebrales
+#Detección de Sentimientos a partir de Ondas Cerebrales
+
 ##Descripción
 Este proyecto investiga la viabilidad de utilizar datos de electroencefalografía (EEG) para la detección y clasificación de estados emocionales en los seres humanos. Utilizando técnicas avanzadas de procesamiento de señales y aprendizaje automático, el objetivo es desarrollar un modelo capaz de distinguir entre emociones positivas, neutras y negativas con alta precisión.
 
